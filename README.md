@@ -5,4 +5,4 @@
 ## divisão do repositorio:
 * CODES
 * IMAGES
-* SALUES -PRESENTATION
+* SALUS -PRESENTATION
